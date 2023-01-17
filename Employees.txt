@@ -1,0 +1,4 @@
+Kutman:Eshenkulov:Male:12.07.2002:kutman.stel@gmail.com:+48123456789:Java Developer Intern:6380:False:20000
+Anna:Novak:Female:11.06.1997:anna@gmail.com:1234567899:Full Stack Developer:1416:True:15200
+Tevin:Mallya:Male:29.12.2002:tevin@gmail.com:1987654321:Java Developer Intern:1027:False:16000
+Dovudbek:Yusufzoda:Male:06.08.2002:dovud@gmail:+1212232398:Junior .NET Developer:1119:False:20000

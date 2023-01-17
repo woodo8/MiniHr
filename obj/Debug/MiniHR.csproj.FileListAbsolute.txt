@@ -1,0 +1,112 @@
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\tevin\OneDrive\Desktop\MiniHR\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\New folder\MiniHR\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\usefulPDF\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\tevin\Downloads\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\tevin\Downloads\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\tevin\Downloads\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\tevin\Downloads\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\User\OneDrive\Рабочий стол\MiniHR\obj\Debug\MiniHR.pdb
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\bin\Debug\MiniHR.exe.config
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\bin\Debug\MiniHR.exe
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\bin\Debug\MiniHR.pdb
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.Form1.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.Form2.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.Form3.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.Form4.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.exe
+C:\Users\ADMIN\Desktop\cisharp\MiniHR\obj\Debug\MiniHR.pdb
